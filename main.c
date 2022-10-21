@@ -8,6 +8,9 @@ to the screen, and it is amazing */
 
 int main() {
 
+    // Jagged Array
+    int JaggedArray[2][3] = {{1,2,3},{1,2,3}};
+
     // Declaring Variables with data types
     int a = 9;
     //float stores upto 7 decimal digits
@@ -64,6 +67,8 @@ int main() {
     } else {
         printf("null");
     }
+
+
 
     // Logical Operators
 
